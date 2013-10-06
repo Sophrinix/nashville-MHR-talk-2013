@@ -1,0 +1,8 @@
+.DS_Store
+assets/*.mov
+assets/*.mp4
+.svn
+log/*.log
+tmp/**
+node_modules/
+.sass-cache

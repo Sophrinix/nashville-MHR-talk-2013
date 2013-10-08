@@ -1,6 +1,15 @@
 .DS_Store
+<<<<<<< HEAD
+=======
+assets/*.mov
+assets/*.mp4
+>>>>>>> f10887484dcbc8b9473baf4027d9c5eda92a6664
 .svn
 log/*.log
 tmp/**
 node_modules/
+<<<<<<< HEAD
 .sass-cache
+=======
+.sass-cache
+>>>>>>> f10887484dcbc8b9473baf4027d9c5eda92a6664

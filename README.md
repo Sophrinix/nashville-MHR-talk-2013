@@ -1,3 +1,11 @@
+## Run index.html in google chrome or safari or firefox 
+
+## These slides probably will not work on internet explorer.
+
+## if you need a PDF version of this, feel free to send me an email at amcelroy@codexlabs.com
+
+
+
 # reveal.js [![Build Status](https://travis-ci.org/hakimel/reveal.js.png?branch=master)](https://travis-ci.org/hakimel/reveal.js)
 
 A framework for easily creating beautiful presentations using HTML. [Check out the live demo](http://lab.hakim.se/reveal-js/).
